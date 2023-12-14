@@ -22,7 +22,7 @@ class ApiActivity : AppCompatActivity(), ApiCallback {
         getRequestButton = findViewById(R.id.getRequest)
 
         listData = mutableListOf(
-            getString(R.string.api_instruction)
+            "Push the button Get Info"
         )
 
         adapter = ArrayAdapter<String>(
