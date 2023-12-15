@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "me.greatscott42.labapis"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "me.greatscott42.labapis"

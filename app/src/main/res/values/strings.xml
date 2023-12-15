@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LabAPIs</string>
+    <string name="api_instruction">"push button get info "</string>
 </resources>
